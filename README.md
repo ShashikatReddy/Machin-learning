@@ -1,2 +1,1 @@
-# Machin-learning
-* This is my machine learning repository were i will be putting all my projects
+# Exploratory data analysis through  visualization of data using libraries such as pamdas, matplotlib and Seaborn.
